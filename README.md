@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/du3p3bwau/image/upload/v1686930911/me_g613yu.png" width="300" height="300"/>
+  <img src="https://res.cloudinary.com/du3p3bwau/image/upload/v1686932044/me2_ndcrax.png" width="300" height="300"/>
 </div>
 
 # Hi, I'm Diana 👋
