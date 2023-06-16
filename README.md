@@ -1,8 +1,5 @@
-<div id="header" align="center">
-  <img src="https://res.cloudinary.com/du3p3bwau/image/upload/v1686932044/me2_ndcrax.png" width="300" height="300"/>
-</div>
 
-# Hi, I'm Diana 👋
+# Hi, I'm Diana :astronaut:
 
 I'm a passionate Front-End developer with expertise in building interactive and responsive web applications. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
