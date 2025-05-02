@@ -1,5 +1,5 @@
 
-# Hi, I'm Diana Umana :astronaut:
+# Hi, I'm Diana :astronaut:
 
 I'm a passionate Full Stack web developer with expertise in building interactive and responsive web applications. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
